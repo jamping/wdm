@@ -1,0 +1,26 @@
+﻿  wdmDlg.cpp
+  Generating code
+  Finished generating code
+tidylib.lib(access.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(access.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(alloc.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(alloc.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(attrdict.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(attrdict.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(attrget.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(attrget.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(attrs.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(attrs.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(buffio.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(buffio.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(clean.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(clean.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(config.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(config.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(entities.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(entities.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(fileio.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(fileio.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(istack.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(istack.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(lexer.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(lexer.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(localize.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(localize.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(mappedio.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(mappedio.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(parser.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(parser.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(pprint.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(pprint.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(streamio.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(streamio.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(tagask.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(tagask.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(tags.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(tags.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(tidylib.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(tidylib.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(tmbstr.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(tmbstr.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+tidylib.lib(utf8.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'tidylib.lib(utf8.obj)' or at 'D:\vc\wdm\Release\vc100.pdb'; linking object as if no debug info
+  wdm.vcxproj -> D:\vc\wdm\Release\wdm.exe
